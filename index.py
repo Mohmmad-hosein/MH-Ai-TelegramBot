@@ -65,7 +65,7 @@ def help_command(message):
 3. سپس هر سوالی داری بپرس
 
 🔑 **فرمت لاگین:**
-email:password
+email:passwordd
 
 💡 **مثال:**
 user@example.com:password123
